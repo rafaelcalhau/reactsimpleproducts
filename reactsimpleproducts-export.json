@@ -1,0 +1,34 @@
+{
+  "category" : [ {
+    "description" : "coffee/tea, juice, soda",
+    "name" : "Beverages"
+  }, {
+    "description" : "Sandwich loaves, dinner rolls, tortillas, bagels",
+    "name" : "Bread/Bakery"
+  }, {
+    "description" : "Cheeses, eggs, milk, yogurt, butter",
+    "name" : "Dairy"
+  }, {
+    "description" : "waffles, vegetables, individual meals, ice cream",
+    "name" : "Frozen Foods"
+  }, {
+    "description" : "all- purpose, laundry detergent, dishwashing liquid/detergent",
+    "name" : "Cleaners"
+  } ],
+  "product" : [ {
+    "category" : "0",
+    "name" : "Coffee Black Grain"
+  }, {
+    "category" : "0",
+    "name" : "Orange Juice"
+  }, {
+    "category" : "0",
+    "name" : "The Soda"
+  }, {
+    "category" : "1",
+    "name" : "Egg salad"
+  }, {
+    "category" : "1",
+    "name" : "The Dagwoo"
+  } ]
+}
