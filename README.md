@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
    #### `npm install -g firebase-tools`
 
-2. Run firebase init and use the command 
+2. Initialize Firebase in the application directory:
 
    #### `firebase init`
 
